@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Go_project/project/RestoreFile/ExtractFile/AhoCorasick.h
+Windows.h
+-
+iostream
+-
+queue
+-
+map
+-
+string
+-
+fstream
+-
+
+E:/Go_project/project/RestoreFile/ExtractFile/extract_file_from_stream.h
+AhoCorasick.h
+E:/Go_project/project/RestoreFile/ExtractFile/AhoCorasick.h
+
+E:/Go_project/project/RestoreFile/ExtractFile/main.cpp
+iostream
+-
+fstream
+-
+Windows.h
+-
+extract_file_from_stream.h
+E:/Go_project/project/RestoreFile/ExtractFile/extract_file_from_stream.h
+

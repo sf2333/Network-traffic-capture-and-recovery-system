@@ -1,0 +1,20 @@
+# github.com/akavel/rsrc v0.8.0
+## explicit
+# github.com/google/gopacket v1.1.17
+## explicit
+github.com/google/gopacket
+github.com/google/gopacket/ip4defrag
+github.com/google/gopacket/layers
+github.com/google/gopacket/pcap
+# github.com/lxn/walk v0.0.0-20191128110447-55ccb3a9f5c1
+## explicit
+github.com/lxn/walk
+github.com/lxn/walk/declarative
+# github.com/lxn/win v0.0.0-20191128105842-2da648fda5b4
+## explicit
+github.com/lxn/win
+# golang.org/x/sys v0.0.0-20190904154756-749cb33beabd
+golang.org/x/sys/windows
+# gopkg.in/Knetic/govaluate.v3 v3.0.0
+## explicit
+gopkg.in/Knetic/govaluate.v3
